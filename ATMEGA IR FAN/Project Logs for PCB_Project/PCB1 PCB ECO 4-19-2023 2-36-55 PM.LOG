@@ -1,0 +1,78 @@
+Change Component Footprint: Designator=R1 Old Footprint=Resistor New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R2 Old Footprint=Resistor New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R3 Old Footprint=Resistor New Footprint=RESA60-630X240
+Change Component Comment : Designator=R1 Old Comment=Resistor New Comment=MFR-25FBF52-1K
+Change Component Comment : Designator=R2 Old Comment=Resistor New Comment=MFR-25FBF52-1K
+Change Component Comment : Designator=R3 Old Comment=Resistor New Comment=MFR-25FBF52-1K
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=58F7FC56-A0DD-42E6-B79F-7FF8885C42C0 Old RevisionGUID= New RevisionGUID=7CA994FA-D9F6-4861-AEDE-6ADB952AD05C
+Change Managed Component Library Link : Designator=R2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=58F7FC56-A0DD-42E6-B79F-7FF8885C42C0 Old RevisionGUID= New RevisionGUID=7CA994FA-D9F6-4861-AEDE-6ADB952AD05C
+Change Managed Component Library Link : Designator=R3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=58F7FC56-A0DD-42E6-B79F-7FF8885C42C0 Old RevisionGUID= New RevisionGUID=7CA994FA-D9F6-4861-AEDE-6ADB952AD05C
+Change component parameters: Designator = "R1" ("R1"); Footprint = "Resistor"; UniqueID = "\EECUIJJW" ("\EECUIJJW")
+Change component parameters (AddParameter): Name = "Case\Package"; Value = "Axial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/Yageo%20LR_MFR_2013.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.248 inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial Lead, Dia 2.4 mm, Body Length 6.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "MFR-25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 kohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "Resistor"; UniqueID = "\IVIQEEKY" ("\IVIQEEKY")
+Change component parameters (AddParameter): Name = "Case\Package"; Value = "Axial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/Yageo%20LR_MFR_2013.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.248 inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial Lead, Dia 2.4 mm, Body Length 6.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "MFR-25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 kohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "Resistor"; UniqueID = "\OSPXFUZF" ("\OSPXFUZF")
+Change component parameters (AddParameter): Name = "Case\Package"; Value = "Axial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/Yageo%20LR_MFR_2013.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.248 inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial Lead, Dia 2.4 mm, Body Length 6.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "MFR-25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 kohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-2
+Added Pin To Net: NetName=NetD1_3 Pin=R3-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-23
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-24
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-25
+Added Net: Name=NetR3_1
