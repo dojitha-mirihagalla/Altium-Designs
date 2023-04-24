@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SW Pin=D-A
+Removed Pin From Net: NetName=vout+ Pin=D-C
+Removed Member From Class: ClassName=Sheet1 Member=D
+Added Component: Designator=D?(DIOM7959X265N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMC-2 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW Pin=D?-A
+Added Pin To Net: NetName=vout+ Pin=D?-C
+Added Member To Class: ClassName=Sheet1 Member=Component D? SS34

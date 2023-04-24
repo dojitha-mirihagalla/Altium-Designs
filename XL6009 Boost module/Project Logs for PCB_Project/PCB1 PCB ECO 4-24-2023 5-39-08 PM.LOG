@@ -1,0 +1,11 @@
+Added Component: Designator=D(DIOAD1898W129L762D1143)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microsemi Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N5824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Microsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5824/Microsemi%20Corporation/view-part/49055/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW Pin=D-A
+Added Pin To Net: NetName=vout+ Pin=D-C
+Added Member To Class: ClassName=Sheet1 Member=Component D 1N5824
