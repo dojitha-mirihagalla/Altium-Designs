@@ -1,5 +1,7 @@
 # IR Remote Controlled Fan
----
+<p align="left">
+  <img src="https://github.com/dojitha-mirihagalla/Altium-Designs/assets/126095827/638389bd-0367-4191-86dc-ce6b826c080a" width="100" alt="giphy">
+</p>
 
 This repository contains the code and schematics for an IR remote controlled fan project. The project involves controlling a fan using an infrared (IR) remote, making use of various components such as 2 servos, 1 DC motor MOSFET controller, RGB LED, OLED display, ATmega328P and an IR remote sensor.
 
