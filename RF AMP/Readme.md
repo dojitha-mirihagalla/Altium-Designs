@@ -22,7 +22,7 @@ Overview of a custom 6-layer PCB featuring controlled impedance, a high-frequenc
 
 ## PCB and 3D Views
 
-<img src="Figures/PCB.jpg" alt="Block Diagram" style="width:40%; height:auto;">
+<img src="Figures/PCB.jpg" alt="Block Diagram" style="width:100%; height:auto;">
 
 ---
 
