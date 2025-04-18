@@ -1,6 +1,8 @@
 # RF Power Amplifier PCB (6-Layer, 6 GHz)
 
-Overview of a custom 6-layer PCB featuring controlled impedance, a high-frequency RF power amplifier, and digital power sequencer.
+
+
+Custom 6-layer PCB featuring controlled impedance, a high-frequency RF power amplifier, and digital power sequencer.
 ---
 
 ## Key Technical Features
